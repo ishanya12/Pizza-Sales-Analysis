@@ -8,7 +8,7 @@
 
 •	Data Analysis using MySQL
 
-•	Dashboard/Report using Power BI
+•	Key Feature of Dashboard
 
 •	Key Insights and Findings
 
@@ -203,15 +203,8 @@ order by total_quantity asc;
 ```
  
 ________________________________________
-## Dashboard/Report using Power BI
-A dynamic Power BI dashboard is created to visualize :
 
- 
-Pizza Sale Analysis
- ![image alt] (https://github.com/ishanya12/Pizza-Sales-Analysis/blob/main/Screenshot%202025-03-12%20224838.png?raw=true)
-Best/Worst Selling Pizza
-
-Key Features of the Dashboard :
+## Key Features of the Dashboard :
 
 •	Interactive filters for data range selection.
 
