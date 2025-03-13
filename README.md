@@ -205,7 +205,7 @@ order by total_quantity asc;
 ________________________________________
 
 ## Key Features of the Dashboard :
-##### ![image alt] (https://github.com/ishanya12/Pizza-Sales-Analysis/blob/main/Screenshot%202025-03-12%20224838.png?raw=true)
+
 •	Interactive filters for data range selection.
 
 •	Drill-down options for specific categories.
